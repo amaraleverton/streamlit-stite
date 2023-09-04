@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #Setando porta
-st.set_option('server.port', 3000)
+#st.set_option('server.port', 3000)
 
 # Crie uma barra lateral para configurações
 st.sidebar.title("Configurações")
